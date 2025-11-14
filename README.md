@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Udo Cirkel
 
-<!--
-**udocirkel/udocirkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Architect** with a strong background in designing and guiding complex IT landscapes across large corporate environments.
+My focus is on aligning technology, business goals, and organizational capabilities to enable sustainable and secure solutions.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Define and evolve **architectures** for business-critical platforms
+- Lead architectural direction for **Identity & Access Management (IAM)**, customer portals, and cloud-native initiatives
+- Facilitate **cross-team collaboration**, architectural communities, and knowledge exchange
+- Drive **modernization initiatives**, domain decoupling, technical debt reduction, and long-term platform strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 How I Work
+I combine architectural clarity with a pragmatic, value-driven mindset.  
+My approach is grounded in:
+- **Domain-driven design** and modular system design
+- **Agile collaboration**, and cross-functional alignment
+- **Structured modeling** of processes, domains, and customer interactions
+
+## 🔧 Key Competencies
+- Solution Architecture
+- IAM Architecture & Integration
+- API Management & Governance
+- Domain-centric and Event-driven system design
+- Architectural assessments & capability enablement
+- Business process modeling (BPMN, UML)
+
+## 📫 Contact
+If you’d like to connect or discuss architecture, strategy, or transformation topics, feel free to reach out:  
+**mail@udocirkel.de**
